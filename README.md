@@ -43,6 +43,7 @@ This course has the following software requirements:<br/>
 ●	NumPy
 
 This course has been tested on the following system configuration:
+
 ●	OS: macOS Sierra (10.12)
 
 ●	Processor: 2.4 GHz Intel Core i5
